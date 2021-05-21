@@ -1,0 +1,93 @@
+.p-shadow-1{
+  position: absolute;
+  top:222px;
+  left:470px;
+  background: #FFFFFF;
+  border: 1px solid #E0E0E0;
+  border-radius: 10px;
+  width:459px;
+  height:455px
+}
+.transplace{
+  height: 79px;
+  width: 457px;
+  background: #A32036;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+.logo{
+  margin-left: 20%;
+  right: 21.79%;
+  margin-top: 5%;
+  bottom: 88.13%;
+  height: 28px;
+  width: 260px;
+}
+h3{
+  margin-left: 145px;
+  top: 23.08%;
+  bottom: 71.87%;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 140%;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+.inputlabel{
+  margin:2px;
+  margin-left: 10.24%;
+  margin-top: 10px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 140%;
+  display: flex;
+  align-items: center;
+  color: #A32036;
+}
+.inputtext{
+  margin-left: 10.24%;
+  margin-top: 5px;
+  width:362px;
+  height:32px;
+  border: 1px solid #E0E0E0;
+  box-sizing: border-box;
+}
+.checkbox{
+  margin-left: 45px;
+  margin-top: 11px;
+}
+.text{
+  margin-top: 11px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 140%;
+  color: #000000;
+}
+.textlabel{
+  margin-right:12px;
+  width:137px;
+  height:23px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 140%;
+  color: #000000;
+}
+.p-button-rounded{
+  margin-top:23px;
+  margin-left:135px;
+  width:174px;
+  height:40px;
+  background: #A32036;
+  border: 1px solid #E0E0E0;
+  box-sizing: border-box;
+  border-radius: 20px;
+}
